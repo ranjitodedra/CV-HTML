@@ -1,6 +1,7 @@
 # cv
 
-I have created a portfolio website using pure html to learn the basics of HTML
+I have created a portfolio website using pure html to learn the basics of HTML.
+
 Take a look - https://ranjitodedra.github.io/CV/
 
 Image of website
